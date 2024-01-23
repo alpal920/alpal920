@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alpal920 
-- 🌱 I’m currently learning... HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, welcome to my page!
+
 
 <!---
 alpal920/alpal920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
